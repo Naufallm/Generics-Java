@@ -10,3 +10,4 @@ operasi.
 5. Hanya diperbolehkan menggunakan class Barang, Main, dan enum dalam program.
 
 # CONTOH OUTPUT
+![genericsmod1](https://github.com/Naufallm/Generics-Java/assets/130893000/b913cebb-b889-4297-8b11-3d40c2965e65)
